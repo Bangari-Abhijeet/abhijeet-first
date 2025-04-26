@@ -1,2 +1,2 @@
 # abhijeet-first
-This is my FIrst repo
+This is my First repo
